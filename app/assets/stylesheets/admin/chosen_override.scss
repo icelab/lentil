@@ -1,0 +1,14 @@
+.chosen-container-multi .chosen-choices li.search-choice .search-choice-close {
+  text-decoration: none;
+}
+
+.chosen-container-multi .chosen-choices li.search-choice .search-choice-close:before {
+  content: "x";
+  display: block;
+  font-size: 15px;
+  position: relative;
+  top: -2px;
+  left: 2px;
+  text-decoration-line: none;
+  color: #323537;
+}

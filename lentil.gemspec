@@ -22,6 +22,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency "rails", "~> 4.2.3"
   s.add_dependency 'jquery-rails', '~> 4.2'
+  s.add_dependency 'chosen-rails', '1.8.2' # for tag filtering
   s.add_dependency 'jquery-ui-rails', '~> 5.0'
   s.add_dependency "activeadmin", '~> 1.0.0.pre4'
   s.add_dependency 'devise', "~> 3.5.9"
